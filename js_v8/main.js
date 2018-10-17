@@ -1,4 +1,4 @@
-function scaleCanvas() {
+function scaleCanvas() {hi
     canvas.width = $(window).width();
     canvas.height = $(window).height();
 
