@@ -1,4 +1,4 @@
-function scaleCanvas() {hi
+function scaleCanvas(maxlovesporn) {
     canvas.width = $(window).width();
     canvas.height = $(window).height();
 
